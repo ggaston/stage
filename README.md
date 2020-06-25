@@ -1,5 +1,5 @@
 # stage
 
-## Name
+## Testing project
 
-Useful help
+Useful help.
