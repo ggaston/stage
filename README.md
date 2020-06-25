@@ -2,5 +2,5 @@
 
 ## Testing project
 
-- Useful help.
-
+- Useful help
+- More info
